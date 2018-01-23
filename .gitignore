@@ -1,2 +1,7 @@
 Image\ Classification/input
 Image\ Classification/feature
+Image\ Classification/pretrained_model
+Image\ Captioning/input
+Image\ Captioning/descriptions.txt
+Image\ Captioning/features.pkl
+.gitignore
